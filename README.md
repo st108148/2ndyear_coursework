@@ -27,8 +27,7 @@ MyDrive/cw_data/TrainingData_Image.segy
 SEGY_PATH = Path('/content/drive/MyDrive/cw_data/TrainingData_Image.segy')
 ```
 
-Если файл находится в другой папке, достаточно изменить константу `SEGY_PATH` в начале нужного ноутбука.
-Не рекомендуется добавлять большой SEG-Y файл в Git-репозиторий.
+Если файл находится в другой папке, достаточно изменить константу `SEGY_PATH` в начале нужного ноутбука..
 
 ## Запуск в Google Colab
 
